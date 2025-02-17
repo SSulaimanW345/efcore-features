@@ -24,5 +24,5 @@ For a deeper understanding of EF Core, check out these official Microsoft resour
 
 Clone the repository and explore the examples:
 ```bash
-git clone https://github.com/yourusername/EFCore-Exploration.git
+git clone https://github.com/SSulaimanW345/efcore-features.git
 cd EFCore
